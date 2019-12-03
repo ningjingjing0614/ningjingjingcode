@@ -1,0 +1,4 @@
+﻿  源.cpp
+g:\程序练习\练习 奇偶数行交替打印\练习 奇偶数行交替打印\源.cpp(6): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(283) : 参见“scanf”的声明
+  练习 奇偶数行交替打印.vcxproj -> G:\程序练习\练习 奇偶数行交替打印\Debug\练习 奇偶数行交替打印.exe
